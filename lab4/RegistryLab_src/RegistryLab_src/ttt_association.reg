@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.ttt]
+@="tttfile"
+
+[HKEY_CLASSES_ROOT\tttfile\shell\open\command]
+@="notepad.exe %1"

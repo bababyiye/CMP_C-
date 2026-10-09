@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab/lab.vcxproj" Id="66f2b7f4-e786-4f7b-8f66-d34b1c5143df" />
+  <Project Path="program2_visualizer_window/program2_visualizer_window.vcxproj" Id="33f7e3a5-da23-4933-a412-7a6eb5777cbd" />
+  <Project Path="program3_generator/program3_generator.vcxproj" Id="55b16cb1-00cd-4ca3-8bad-92104cbacdc2" />
+  <Project Path="program4_quicksort_desc/program4_quicksort_desc.vcxproj" Id="10b4f669-bc22-4e54-b9d6-8de7ecd307dd" />
+</Solution>

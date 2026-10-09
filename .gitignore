@@ -1,0 +1,38 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.vcxproj.user
+
+# Папки збірки
+x64/
+x86/
+Debug/
+Release/
+build/
+out/
+
+# Результати компіляції
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.dll
+*.tlog
+*.log
+*.recipe
+*.res
+*.pch
+*.ipch
+
+# Службові файли збірки Visual Studio
+*.dt.d.json
+*.dt.module.json
+*.command
+
+# Згенеровані програмою файли
+resource_log.csv
